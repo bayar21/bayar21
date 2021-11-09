@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bayar20
 - 👀 I’m interested in learning coding. 
-- 🌱 I’m currently learning Javascript, node.js and ReactJS. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript, Node.js, ReactJS, React Native.
 - 📫 You can reach me on bayaraa.dns@gmail.com
 
 <!---
