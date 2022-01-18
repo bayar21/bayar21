@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bayarsaikhan. 
 - 👀 I’m interested in learning coding. 
-- 🌱 I’m currently learning HTML/CSS, Javascript, Node.js, ReactJS, React Native, AWS.
+- 🌱 I’m currently developing my coding skills to become a full stack developer.
 - 📫 You can reach me on bayaraa.dns@gmail.com
 
 <!---
