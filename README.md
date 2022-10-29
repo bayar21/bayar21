@@ -1,6 +1,19 @@
-- 👋 Hi, I’m Bayarsaikhan. 
-- 👀 I’m interested in learning coding. 
-- 🌱 I’m currently developing my coding skills to become a full stack developer.
+- 👋 Hi, I’m Bayar. 
+- 👀 I want to continuously improve my coding skills. 
+- 🌱 I’m a full stack developer with experience in below languages and frameworks:
+  - Javascript (ES6)
+  - Typescript
+- Python
+- React
+- Next.js
+- React Native
+- HTML/CSS/SASS
+- AWS (key services)
+- Firebase
+- REST API
+- GraphQL
+- MongoDB (NoSQL)
+
 - 📫 You can reach me on bayaraa.dns@gmail.com
 
 <!---
