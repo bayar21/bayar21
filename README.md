@@ -24,7 +24,7 @@
   - SEO
 
 
-- 📫 You can reach me on bayaraa.dns@gmail.com
+- 📫 You can reach me on b.nermunkh@gmail.com
 
 <!---
 Bayar20/Bayar20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
