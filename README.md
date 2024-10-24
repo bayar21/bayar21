@@ -7,7 +7,6 @@
   - Frameworks:
     - React, React Native, Next.js
     - Tailwind, MaterialUI
-    - Contentful, Strapi
   - Cloud providers:
     - AWS, Firebase
   - Database and network:
@@ -17,7 +16,6 @@
     - Agile (Jira), Version control (Git), CI/CD (Github actions, Gitlab)
     - Responsive design, Styled components
     - Unit testing (Jest)
-    - SEO
 
 
 - 📫 You can reach me on b.nermunkh@gmail.com
