@@ -1,27 +1,23 @@
 - 👋 Hi, I’m Bayar. 
 - 👀 I want to continuously improve my coding skills. 
-- 🌱 I’m a full stack developer with experience in below languages, frameworks and development tools:
-  - Javascript (ES6)
-  - Typescript
-  - Python
-  - React
-  - Next.js
-  - React Native
-  - HTML/CSS/SASS
-  - AWS (key services)
-  - Firebase
-  - REST API
-  - GraphQL
-  - MongoDB (NoSQL)
-  - Agile (Jira)
-  - Version control (Git)
-  - CI/CD (Github actions)
-  - Software architecture
-  - Responsive design
-  - Styled components
-  - Contentful, Strapi
-  - Unit testing (Jest)
-  - SEO
+- 🌱 I’m a full stack developer with experience in following:
+  - Languages:
+    - Javascript, Typescript, Python
+    - HTML/CSS/SASS
+  - Frameworks:
+    - React, React Native, Next.js
+    - Contentful, Strapi
+  - Cloud providers:
+    - AWS, Firebase
+  - Database and network:
+    - REST API, GraphQL
+    - MongoDB (NoSQL), SQL
+  - Other skills:
+    - Agile (Jira), Version control (Git), CI/CD (Github actions, Gitlab)
+    - Software architecture, System design
+    - Responsive design, Styled components
+    - Unit testing (Jest)
+    - SEO
 
 
 - 📫 You can reach me on b.nermunkh@gmail.com
