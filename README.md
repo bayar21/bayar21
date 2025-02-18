@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bayar. 
-- 👀 I strive to continuously improve my coding skills. 
 - 🌱 I’m a full stack developer with experience in following:
   - Languages:
     - Javascript, Typescript, Python
@@ -21,6 +20,6 @@
 - 📫 You can reach me on b.nermunkh@gmail.com
 
 <!---
-Bayar20/Bayar20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bayar21/Bayar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
